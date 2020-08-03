@@ -1,0 +1,31 @@
+{
+  "name": "time-matcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/time-matcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pisceanfoot/time-matcher.git"
+  },
+  "keywords": [
+    "time",
+    "match",
+    "cron"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pisceanfoot/time-matcher/issues"
+  },
+  "homepage": "https://github.com/pisceanfoot/time-matcher#readme",
+  "dependencies": {
+    "tz-offset": "0.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.0"
+  }
+}
